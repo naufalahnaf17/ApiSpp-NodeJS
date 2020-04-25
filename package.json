@@ -1,0 +1,16 @@
+{
+  "name": "paket_1_node",
+  "version": "1.0.0",
+  "description": "Api Untuk Backend Paket 1 Dengan Node Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naufal Ahnaf",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
